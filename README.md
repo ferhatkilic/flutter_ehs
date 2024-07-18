@@ -1,1 +1,3 @@
-# flutter_ehs
+# flutter_application_yeni
+
+A new Flutter project.

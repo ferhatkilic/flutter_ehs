@@ -1,0 +1,28 @@
+name: flutter_application_yeni
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: OpenSansItalic
+      fonts:
+      - asset: fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf
+    - family: OpenSans
+      fonts:
+      - asset: fonts/OpenSans-VariableFont_wdth,wght.ttf
+  assets:
+    - resimler/ehs_logo.jpeg
